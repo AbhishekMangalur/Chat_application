@@ -1,0 +1,15 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore build or dist directories
+/dist/
+/build/
+
+# Ignore system files (e.g., macOS)
+.DS_Store
